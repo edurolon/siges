@@ -40,6 +40,7 @@
 </head>
 <body class="login-page">
 <div class="login-container">
+aca va otra modif
 	  <div class="login-branding">
 		
         <!--<a href="#" style="color:#C8C8C8; font-size:24px; font-weight:bold;"><h2><strong>Asolucionar</strong></h2></a>-->
